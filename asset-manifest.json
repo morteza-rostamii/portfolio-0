@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "http://Morteza-Rostami.github.io/portfolio-0/static/css/main.1f04abd1.css",
+    "main.js": "http://Morteza-Rostami.github.io/portfolio-0/static/js/main.64852820.js",
+    "static/media/com.gif": "http://Morteza-Rostami.github.io/portfolio-0/static/media/com.1cd0da7da8d1c5d3b4ad.gif",
+    "index.html": "http://Morteza-Rostami.github.io/portfolio-0/index.html",
+    "main.1f04abd1.css.map": "http://Morteza-Rostami.github.io/portfolio-0/static/css/main.1f04abd1.css.map",
+    "main.64852820.js.map": "http://Morteza-Rostami.github.io/portfolio-0/static/js/main.64852820.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f04abd1.css",
+    "static/js/main.64852820.js"
+  ]
+}
