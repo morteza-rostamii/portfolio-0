@@ -92,7 +92,7 @@ const Contact = () => {
         id='contact-form'
         className='
         flex flex-col gap-3 
-        w-full mt-24
+        w-full mt-24 z-10
         '
 
         onSubmit={(e) => handSubmitForm(e)}

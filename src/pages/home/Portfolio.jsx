@@ -81,8 +81,10 @@ const Portfolio = () => {
       <div
       className='
       absolute bottom-0 left-0 right-0
-      flex items-center justify-center
+      items-center justify-center
       bg-green-300 h-0 
+      hidden
+      lg:flex
       '
       >
       <button

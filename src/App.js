@@ -16,7 +16,6 @@ import {GiFallingBlob} from 'react-icons/gi'
 import com from './assets/com.gif'
 
 function App() {
-  
 
   return (
     <Routes>
@@ -25,6 +24,7 @@ function App() {
       element={<MainLay/>}
       >
         <Route
+        exact
         path="/"
         element={<HomePage/>}
         >
