@@ -78,7 +78,7 @@ const About = () => {
         w-32 h-32 rounded-full
         object-cover
         '
-        src="/home/me3.jpg" 
+        src="https://res.cloudinary.com/dqbmgtcwy/image/upload/v1695993330/me3_tlpwus.jpg" 
         alt="me" 
         
         initial={{

@@ -1,12 +1,13 @@
 import React, { createContext, useEffect, useMemo, useState } from 'react'
 
-const sections = ['home', 'about', 'projects', 'skills', 'contact'];
+const sections = ['home', 'about', 'video', 'projects', 'skills', 'contact'];
 export const secIds = {
   'home': 0,
   'about': 1,
-  'projects': 2,
-  'skills': 3,
-  'contact': 4,
+  'video': 2,
+  'projects': 3,
+  'skills': 4,
+  'contact': 5,
 };
 
 export const HomeContext = createContext({});

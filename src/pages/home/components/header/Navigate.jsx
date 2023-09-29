@@ -20,16 +20,21 @@ export const items = [
   },
   {
     id: 2,
+    name: 'video',
+    text: 'Video',
+  },
+  {
+    id: 3,
     name: 'projects',
     text: 'Projects',
   },
   {
-    id: 3,
+    id: 4,
     name: 'skills',
     text: 'Skills',
   },
   {
-    id: 4,
+    id: 5,
     name: 'contact',
     text: 'Contact',
   },

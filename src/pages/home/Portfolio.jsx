@@ -13,6 +13,7 @@ import Skills from './components/skills/Skills'
 import Contact from './components/contact/Contact'
 import { HiChevronDoubleDown, HiChevronDoubleUp, HiChevronDown, HiChevronUp } from 'react-icons/hi';
 import { HiOutlineChevronDoubleDown, HiOutlineChevronDoubleUp } from 'react-icons/hi2';
+import Video from './components/video/Video';
 
 const sections = [
   {
@@ -25,14 +26,18 @@ const sections = [
   },
   {
     id: 2,
-    element: <Projects/>,
+    element: <Video/>,
   },
   {
     id: 3,
-    element: <Skills/>,
+    element: <Projects/>,
   },
   {
     id: 4,
+    element: <Skills/>,
+  },
+  {
+    id: 5,
     element: <Contact/>,
   },
 ]

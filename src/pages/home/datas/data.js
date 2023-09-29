@@ -12,35 +12,35 @@ export const projects = [
     id: 0,
     name: 'Quiz App',
     description: faker.lorem.words(10),
-    image: faker.image.urlPicsumPhotos(),
+    image: 'https://placehold.co/400',
     link: ''
   },
   {
     id: 1,
     name: 'Poll App',
     description: faker.lorem.words(10),
-    image: faker.image.urlPicsumPhotos(),
+    image: 'https://placehold.co/400',
     link: '',
   },
   {
     id: 2,
     name: 'Mad Libs Game',
     description: faker.lorem.words(10),
-    image: '/home/projects/mad-libs.png',
+    image: 'https://placehold.co/400',
     link: `${process.env.REACT_APP_URL}/mad-libs`,
   },
   {
     id: 3,
     name: 'Pinterest',
     description: faker.lorem.words(10),
-    image: '/home/projects/pinterest.png',
+    image: 'https://placehold.co/400',
     link: `${process.env.REACT_APP_URL}/pinterest`,
   },
   {
     id: 4,
     name: 'Carousel',
     description: faker.lorem.words(10),
-    image: faker.image.urlPicsumPhotos(),
+    image: 'https://placehold.co/400',
     link: ''
   },
 ]
